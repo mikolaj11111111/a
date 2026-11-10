@@ -34,6 +34,6 @@ The project is private even though this repository and its fictional issues are 
 
 ## Automation and review
 
-Open issues from this repository are automatically added to the project. Newly added items start in Backlog, and closing an issue moves it to Done. Other transitions remain manual.
+Open issues from this repository are automatically added to the project. Newly added items start in Backlog, and closing an issue moves it to Done. GitHub's default **Auto-close issue**, **Pull request linked to issue**, and **Pull request merged** workflows currently remain enabled. Disabling these extra defaults to keep other transitions manual is pending confirmation.
 
 Try moving cards, changing priority, checking My Work, and viewing the blocked sample. The six examples cover every column. QRVISION itself remains unchanged until this prototype is approved.
